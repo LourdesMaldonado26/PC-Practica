@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\bin\Debug\net8.0\Proyecto 02,.exe
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\bin\Debug\net8.0\Proyecto 02,.deps.json
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\bin\Debug\net8.0\Proyecto 02,.runtimeconfig.json
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\bin\Debug\net8.0\Proyecto 02,.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\bin\Debug\net8.0\Proyecto 02,.pdb
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\refint\Proyecto 02,.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.pdb
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\Proyecto 02,.genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Proyecto 02,\obj\Debug\net8.0\ref\Proyecto 02,.dll
