@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\bin\Debug\net8.0\T2,SLHM,1280624,E1.exe
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\bin\Debug\net8.0\T2,SLHM,1280624,E1.deps.json
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\bin\Debug\net8.0\T2,SLHM,1280624,E1.runtimeconfig.json
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\bin\Debug\net8.0\T2,SLHM,1280624,E1.dll
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\bin\Debug\net8.0\T2,SLHM,1280624,E1.pdb
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.dll
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\refint\T2,SLHM,1280624,E1.dll
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.pdb
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\T2,SLHM,1280624,E1.genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Documentos\T2,SLHM,1280624,E1\obj\Debug\net8.0\ref\T2,SLHM,1280624,E1.dll
