@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\bin\Debug\net8.0\Laboratorio (práctica).exe
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\bin\Debug\net8.0\Laboratorio (práctica).deps.json
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\bin\Debug\net8.0\Laboratorio (práctica).runtimeconfig.json
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\bin\Debug\net8.0\Laboratorio (práctica).dll
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\bin\Debug\net8.0\Laboratorio (práctica).pdb
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).dll
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\refint\Laboratorio (práctica).dll
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).pdb
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\Laboratorio (práctica).genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Documentos\Laboratorio (práctica)\obj\Debug\net8.0\ref\Laboratorio (práctica).dll
