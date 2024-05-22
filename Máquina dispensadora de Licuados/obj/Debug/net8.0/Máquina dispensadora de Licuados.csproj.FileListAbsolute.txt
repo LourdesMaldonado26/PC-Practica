@@ -1,0 +1,14 @@
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\bin\Debug\net8.0\Máquina dispensadora de Licuados.exe
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\bin\Debug\net8.0\Máquina dispensadora de Licuados.deps.json
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\bin\Debug\net8.0\Máquina dispensadora de Licuados.runtimeconfig.json
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\bin\Debug\net8.0\Máquina dispensadora de Licuados.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\bin\Debug\net8.0\Máquina dispensadora de Licuados.pdb
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.AssemblyInfoInputs.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.AssemblyInfo.cs
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.csproj.CoreCompileInputs.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\refint\Máquina dispensadora de Licuados.dll
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.pdb
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\Máquina dispensadora de Licuados.genruntimeconfig.cache
+C:\Users\sandy\OneDrive\Documentos\PC. Laboratorio (práctica)\Máquina dispensadora de Licuados\obj\Debug\net8.0\ref\Máquina dispensadora de Licuados.dll
